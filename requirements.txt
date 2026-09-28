@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+requests
+yfinance
+smartapi-python
+pyotp
+logzero
+websocket-client
